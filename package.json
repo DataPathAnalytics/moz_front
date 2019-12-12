@@ -1,0 +1,44 @@
+{
+  "name": "kg-risks",
+  "version": "0.1.0",
+  "private": true,
+  "dependencies": {
+    "antd": "^3.16.5",
+    "axios": "^0.18.0",
+    "classnames": "^2.2.6",
+    "file-saver": "^2.0.1",
+    "intl": "^1.2.5",
+    "lodash": "^4.17.11",
+    "moment": "^2.24.0",
+    "prop-types": "^15.7.2",
+    "react": "^16.8.6",
+    "react-app-env": "^1.2.3",
+    "react-datepicker": "^2.4.0",
+    "react-dom": "^16.8.6",
+    "react-redux": "^6.0.1",
+    "react-redux-multilingual": "^2.0.2",
+    "react-router-dom": "^4.3.1",
+    "react-scripts": "^2.1.8",
+    "redux": "^4.0.1",
+    "redux-devtools-extension": "^2.13.2",
+    "redux-logger": "^3.0.6",
+    "redux-thunk": "^2.2.0",
+    "shortid": "^2.2.14",
+    "uuid": "^3.3.2"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test",
+    "eject": "react-scripts eject"
+  },
+  "eslintConfig": {
+    "extends": "react-app"
+  },
+  "browserslist": [
+    ">0.2%",
+    "not dead",
+    "not ie <= 11",
+    "not op_mini all"
+  ]
+}

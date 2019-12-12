@@ -1,0 +1,19 @@
+.selected-variant .ant-table-wrapper {
+    background-color: #D3D3D3;
+}
+
+.data-from-file .ant-table-wrapper {
+    background-color: #FFB6C1;
+}
+
+.data-for-save .ant-table-wrapper {
+    background-color: #90EE90;
+}
+
+.cursor-pointer {
+    background-color: #fff2e0;
+}
+
+/*.cursor-pointer td:last-child {*/
+    /*background-color: #FFA500;*/
+/*}*/
